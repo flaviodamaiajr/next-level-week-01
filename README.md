@@ -1,1 +1,1 @@
-# next-level-week-01
+# NLW - Next Level Week first edition
